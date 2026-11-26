@@ -1,0 +1,146 @@
+.container0{
+    background-image: url(FondoVerde.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    color: rgb(220, 225, 230);
+    text-align: center;
+    padding: 0.5em 0 0.2em 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Barra{
+    justify-content: center;
+    text-align: center;
+    padding: 0,5em;
+    margin: 0,5em;
+    cursor: pointer;
+}
+.Banner{
+    width: 100%;
+    height: 20em;
+    border: 0.3em solid;
+    border-color: black;
+    object-fit: cover;
+}
+.Menu ul{
+    text-align: center;
+    list-style: none;
+}
+.Menu ul li{
+    display: inline-block;
+    padding: 0 5em;
+}
+.Menu ul li a{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+    padding: 0.3em 1em;
+}
+.Menu ul li a:hover{
+    background-color: white;
+    border-radius: 10%;
+    color: black;
+}
+.container1{
+    background-color: rgb(73, 117, 56);
+    display: flex;
+    justify-content: center;
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.TextIzquierda{
+    margin: 2em 5em;
+    padding: 2em;
+    font-size: large;
+}
+.Negrita{
+    font-weight: bold;
+}
+#Img1{
+    margin: 2em 5em;
+    height: 30em;
+    width: auto;
+    border: 0.3em solid;
+    border-color: black;
+}
+.container2{
+    border: 0.5em solid;
+    border-color: rgb(46, 59, 70);
+    background-color: rgb(109, 173, 189);
+    display: flex;
+    justify-content: center;
+}
+.TextDerecha{
+    margin:  2em 5em;
+    padding: 3em;
+    font-size: large;
+}
+.Redir li a{
+    text-decoration: none;
+    color: black;
+}
+.Redir li a:hover{
+    font-weight: 900;
+}
+#Img2{
+    margin: 2em 5em;
+    height: 40em;
+    width: auto;
+    border: 0.3em solid;
+    border-color: black;
+}
+.container3{
+    background-color: rgb(218, 218, 218);
+    justify-content: center;
+    align-items: center;
+}
+.TextMedio{
+    justify-items: center;
+    padding: 3em;
+    font-size: large;
+}
+#Mapa{
+    justify-content: center;
+    width: 100%;
+    height: auto;
+}
+#Img3{
+    margin: 1em 15% 1em 15%;
+    width: 70%;
+    height: auto;
+    border: 0.3em solid;
+    border-color: black;
+}
+.container4{
+    border-top: 2em solid;
+    border-color: rgb(48, 41, 41);
+    background-image: url(FondoAmarillo.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: center;
+}
+video{
+    margin: 1em 15% 1em 15%;
+    width: 70%;
+    height: auto;
+    border: 0.5em solid;
+    border-color: black;
+}
+.containerEnd{
+    border-top: 2em solid;
+    border-color: rgb(48, 41, 41);
+    background-color: rgb(42, 45, 48);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.containerEnd ul{
+    color: rgb(190, 212, 231);
+}
+h3{
+    margin: 1em;
+    padding: 2em;
+    color: rgb(190, 212, 231);
+}
